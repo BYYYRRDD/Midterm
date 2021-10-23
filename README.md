@@ -12,9 +12,9 @@
           <li>Football</li>
           <li>Discgolf</li>
           <li>Videogames</li>
-</ul>
+     </ul>
      
-     <p>I love to watch <a href="https://www.espn.com/">ESPN</a> in my free time and I enjoy different https://www.netflix.com/browse<a href="https://www.netflix.com/browse">Netflix</a> show all the time. 
+<p>I love to watch <a href="https://www.espn.com/">ESPN</a> in my free time and I enjoy different https://www.netflix.com/browse<a href="https://www.netflix.com/browse">Netflix</a> show all the time. 
      
 
 </body>
