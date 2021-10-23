@@ -14,9 +14,7 @@
           <li>Videogames</li>
 </ul>
      
-     <p>Here is a picture of my dog Daisy.</p>
-     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D130792627477607&imgrefurl=https%3A%2F%2Fm.facebook.com%2FMillbankDachshundRescue%2Fposts&tbnid=ayew6bLTEhB6DM&vet=12ahUKEwjzwoXV29_zAhWLAs0KHdy4DnYQMygqegUIARCCAg..i&docid=D-sG1sQSaNqk9M&w=776&h=766&itg=1&q=weiner%20dog%20beagle%20mix%20facebook&hl=en&ved=2ahUKEwjzwoXV29_zAhWLAs0KHdy4DnYQMygqegUIARCCAg"width="80" 
-     height="100" >
+     <p>I love to watch <a href="https://www.espn.com/">ESPN</a> in my free time and I enjoy different https://www.netflix.com/browse<a href="https://www.netflix.com/browse">Netflix</a> show all the time. 
      
 
 </body>
