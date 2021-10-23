@@ -7,8 +7,11 @@
      height="100" >
 <p>My name is Drew Byrd and I am a student a the University of Missouri.</p>
      <p><b>Hobbies</b><br>
-          <il>Baseball</il>
-          <il>Discgolf</il>
+          <ul>
+          <li>Football</li>
+          <li>Discgolf</li>
+          <li>Videogames</li>
+</ul>
 
 </body>
 
