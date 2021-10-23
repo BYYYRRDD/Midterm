@@ -14,7 +14,7 @@
           <li>Videogames</li>
      </ul>
      
-<p>I love to watch <a href="https://www.espn.com/">ESPN</a> in my free time and I enjoy different <a href="https://www.netflix.com/browse">Netflix</a> shows all the time. 
+<h3>I love to watch <a href="https://www.espn.com/">ESPN</a> in my free time and I enjoy different <a href="https://www.netflix.com/browse">Netflix</a> shows all the time. </h3>
      
 
 </body>
